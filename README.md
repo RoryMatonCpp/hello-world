@@ -1,2 +1,1 @@
-# hello-world
-Initial rep (hello-world) - Tutorial 1
+Hi my name is Rory and i am a student getting to grips with programming.
